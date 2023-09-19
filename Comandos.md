@@ -1,7 +1,7 @@
-## Iniciando o versionamento do código:
+# Iniciando o versionamento do código:
 git init
 
-## Preparando o arquivo para comitar
+# Preparando o arquivo para comitar
 git add .
 
 # Fazendo o commit
