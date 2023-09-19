@@ -34,3 +34,8 @@ Na primeira vez do projeto, você cria um repositório manualmente lá no github
 
 ``` git push -u origin main ```
 
+## Entender qual repositório remoto seu projeto está
+``` git remote -v ```
+
+# Remover projeto do repositório remoto
+``` git remote remove origin```
