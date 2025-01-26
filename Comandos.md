@@ -43,6 +43,9 @@ Na primeira vez do projeto, você cria um repositório manualmente lá no github
 
 
 ## Branches
+
+Comandos para trabalhar com branches locais e remotas
+
 ```git branch #listar as branches locais```
 
 ```git branch -r #listar as branches remotas```
