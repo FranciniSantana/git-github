@@ -59,3 +59,10 @@ Comandos para trabalhar com branches locais e remotas
 ```git pull nome_repo_remoto nome_repo_remoto/nome_dabranch```
 
 
+
+## Commits
+Melhorando os commits usando comandos
+
+```git commit -m " texto do commit" # adiciona uma mensagem linha única```
+
+```git commit -a #abre editor de mensagem de commit que pode trazer mais informações no commit```
