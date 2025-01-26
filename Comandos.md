@@ -3,7 +3,7 @@
 ## Iniciando o versionamento do código:
  Ao iniciar um projeto do zero, na pasta do arquivo utilize o comando para dar início ao traqueamento com git
 
-git init 
+``` git init ```
 
 
 ## Preparando o arquivo para comitar
@@ -26,6 +26,7 @@ Na primeira vez do projeto, você cria um repositório manualmente lá no github
 ``` git push -u origin main ```
 
 ## Passo a passo após estar trabalhando com documento já com repositório criado
+
 ```git status #Ao abrir o documento, ver as atualizações para lembrar o que foi feito de commit```
 
  ``` git add .   git add nomedocumento```
@@ -39,3 +40,15 @@ Na primeira vez do projeto, você cria um repositório manualmente lá no github
 
 # Remover projeto do repositório remoto
 ``` git remote remove origin```
+
+
+## Branches
+
+git checkout -b nome_da_branch # Cria uma nova branch localmente
+
+git fetch # Atualiza commits, arquivos e refs (branches)
+git fetch nome_repo_remoto nome_branch_remota
+
+git pull nome_repo_remoto nome_repo_remoto/nome_dabranch
+
+
