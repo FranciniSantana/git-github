@@ -66,3 +66,6 @@ Melhorando os commits usando comandos
 ```git commit -m " texto do commit" # adiciona uma mensagem linha única```
 
 ```git commit -a #abre editor de mensagem de commit que pode trazer mais informações no commit```
+
+
+``` git commit --amend -a # volta ao commit anterior com possibilidade de alterar mensagens```
