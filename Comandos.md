@@ -43,12 +43,16 @@ Na primeira vez do projeto, você cria um repositório manualmente lá no github
 
 
 ## Branches
+```git branch #listar as branches locais```
 
-git checkout -b nome_da_branch # Cria uma nova branch localmente
+```git branch -r #listar as branches remotas```
 
-git fetch # Atualiza commits, arquivos e refs (branches)
-git fetch nome_repo_remoto nome_branch_remota
+```git checkout -b nome_da_branch # Cria uma nova branch localmente```
 
-git pull nome_repo_remoto nome_repo_remoto/nome_dabranch
+```git fetch # Atualiza commits, arquivos e refs (branches)```
+
+```git fetch nome_repo_remoto nome_branch_remota```
+
+```git pull nome_repo_remoto nome_repo_remoto/nome_dabranch```
 
 
