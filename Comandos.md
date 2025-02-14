@@ -54,9 +54,11 @@ Comandos para trabalhar com branches locais e remotas
 
 ```git fetch # Atualiza commits, arquivos e refs (branches)```
 
-```git fetch nome_repo_remoto nome_branch_remota```
+```git fetch origin nome_branch_remota``` # atualiza todas as branchs
 
-```git pull nome_repo_remoto nome_repo_remoto/nome_dabranch```
+```git checkout nome_branch_remota``` # muda para branch (que agora existe localmente)
+
+```git pull origin nome_repo_remoto/nome_dabranch```
 
 
 
