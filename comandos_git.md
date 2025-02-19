@@ -5,7 +5,6 @@
 
 ``` git init ```
 
-
 ## Preparando o arquivo para comitar
 Após algum tempo de trabalho você prepara seus arquivos para serem enviados para o repositório remoto, então você começa usando o comando abaixo para adicioná-lo na "fila de commit".
 
